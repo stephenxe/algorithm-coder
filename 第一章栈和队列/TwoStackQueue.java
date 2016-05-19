@@ -1,4 +1,4 @@
-//由两个栈组成队列
+//2由两个栈组成队列
 //两个栈实现队列支持队列基本操作 add,poll,peek
 public TwoStackQueue{
   public Stack<Integer> stackPush;
